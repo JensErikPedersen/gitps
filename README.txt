@@ -6,4 +6,7 @@ Feature1
 Added Feature 2 
 More feature 2 
 
-Feature 3 
+More master 
+
+Feature 3
+Reset master 
