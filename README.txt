@@ -6,3 +6,4 @@ Feature1
 Added Feature 2 
 More feature 2 
 
+Feature 3 
